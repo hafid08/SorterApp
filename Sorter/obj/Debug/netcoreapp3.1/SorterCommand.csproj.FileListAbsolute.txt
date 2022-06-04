@@ -1,0 +1,9 @@
+C:\Users\Asus\Documents\Sorter\Sorter\bin\Debug\netcoreapp3.1\SorterCommand.deps.json
+C:\Users\Asus\Documents\Sorter\Sorter\bin\Debug\netcoreapp3.1\SorterCommand.dll
+C:\Users\Asus\Documents\Sorter\Sorter\bin\Debug\netcoreapp3.1\SorterCommand.pdb
+C:\Users\Asus\Documents\Sorter\Sorter\obj\Debug\netcoreapp3.1\SorterCommand.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Sorter\Sorter\obj\Debug\netcoreapp3.1\SorterCommand.AssemblyInfo.cs
+C:\Users\Asus\Documents\Sorter\Sorter\obj\Debug\netcoreapp3.1\SorterCommand.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Sorter\Sorter\obj\Debug\netcoreapp3.1\SorterCommand.dll
+C:\Users\Asus\Documents\Sorter\Sorter\obj\Debug\netcoreapp3.1\SorterCommand.pdb
+C:\Users\Asus\Documents\Sorter\Sorter\obj\Debug\netcoreapp3.1\SorterCommand.csproj.AssemblyReference.cache
